@@ -136,7 +136,8 @@ output application/json
   "id": "1234",
   "description": "Best laptop in IT industry",
   "owner": "Dell",
-  "productName": "Mule 4,x"
+  "productName": "Mule 4,x",
+  "productStatus": "Product status"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
